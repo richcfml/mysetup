@@ -1,10 +1,10 @@
 # Mac
 
-## System
+### System
 
 I like the versatility of the Mac OS X knowing that is Unix under the covers. With that in mind, I do not like bash and I instead use zsh instead. I normally setup zsh using Oh My Zsh to manage the configuration of my shell envionment. [click here to downlaod](http://ohmyz.sh/)
 
-## Homebrew
+### Homebrew
 
 Homebrew is the response to the need of a package manager for Mac OS X. It is an invaluable application to have if you are serious about any development using a Mac Machine.
 
@@ -14,7 +14,7 @@ To install it run:
 
 [For more information about Homebrew click this link](https://brew.sh)
 
-## Applications
+### Applications
 
 The main applications mention here are the current applicaation I use the most for all of my development work
 
