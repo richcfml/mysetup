@@ -8,4 +8,4 @@ To install it run:
 
 ``` /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" ```
 
-[For more information about Homebrew click here](https://brew.sh)
+[For more information about Homebrew click this link](https://brew.sh)
