@@ -2,7 +2,7 @@
 
 ### System
 
-I like the versatility of the Mac OS X knowing that is Unix under the covers. With that in mind, I do not like bash and I instead use zsh instead. I normally setup zsh using Oh My Zsh to manage the configuration of my shell envionment. [click here to downlaod](http://ohmyz.sh/)
+I like the versatility of the Mac OS X knowing that is Unix under the covers. With that in mind, I do not like bash and I instead use zsh. I normally setup zsh using Oh My Zsh to manage the configuration of my shell envionment. [click here to downlaod](http://ohmyz.sh/)
 
 ### Homebrew
 
