@@ -4,3 +4,4 @@ This is a document that I will be updating as time goes on, but it will include 
 
 I will include also specific setup for the most relevant languages that I use at the time of this document being created.
 
+[General Setup](https://github.com/richcfml/mysetup/blob/master/general_setup.md)
